@@ -1,0 +1,11 @@
+Pour créer de nouveaux graphismes créer un répertoire ici portant le nom que vous souhaitez.
+Les fichiers suivants doivent être dans le répertoire voulu. Il s'agit des images des cases du jeu.
+
+avalanche.png
+montagne.png
+neige.png
+poisson.png
+tuxfisher_gagne.png
+tuxfisher_mort.png
+tuxfisher_vivant.png
+vide.png

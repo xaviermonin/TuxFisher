@@ -6,9 +6,9 @@ TuxFisher est un jeu 2D de réflexion/stratégie open source, libre, gratuit et 
 
 ## Compilation 
 
-– Avoir installé correctement Qt4.
-– Avoir installé correctement OpenAL Dev et ALUT dev.
-– Avoir installé correctement les bibliothèques ogg, vorbis et vorbisfile.
-– Avoir installé le compilateur gcc.
-– Exécuter la commande : qmake & make dans les sous répertoires de l’archive décompressée.
-– Copier le programme TuxFisher dans Data.
+* Avoir installé correctement Qt4.
+* Avoir installé correctement OpenAL Dev et ALUT dev.
+* Avoir installé correctement les bibliothèques ogg, vorbis et vorbisfile.
+* Avoir installé le compilateur gcc.
+* Exécuter la commande : qmake & make dans les sous répertoires de l’archive décompressée.
+* Copier le programme TuxFisher dans Data.

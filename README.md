@@ -2,7 +2,9 @@
 
 TuxFisher est un jeu 2D de réflexion/stratégie open source, libre, gratuit et multiplateforme (Windows, Linux, Mac OS).  Le jeu met en scène la mascotte de Linux: Tux le manchot. C'est un clone du jeu Mr Matt.
 
-***Le site https://www.tuxfisher.net ne m'appartient plus. Prenez garde à son contenu.***
+## Site
+
+***Attention ! Le site https://www.tuxfisher.net ne m'appartient plus. Il est sous le contrôle d'un compte faisant de la publicité pour un VPN (voir https://who.is/whois/tuxfisher.net et https://website.informer.com/email/lukepoporila@gmail.com). Prenez garde à son contenu.***
 
 ## Compilation 
 

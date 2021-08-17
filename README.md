@@ -4,7 +4,7 @@ TuxFisher est un jeu 2D de réflexion/stratégie open source, libre, gratuit et 
 
 ## Site
 
-***Attention ! Le site https://www.tuxfisher.net ne m'appartient plus. Il est sous le contrôle d'un compte faisant de la publicité pour un VPN (voir https://who.is/whois/tuxfisher.net et https://website.informer.com/email/lukepoporila@gmail.com). Prenez garde à son contenu.***
+***Attention ! Le site https://www.tuxfisher.net ne m'appartient plus. Prenez garde à son contenu.***
 
 ## Compilation 
 

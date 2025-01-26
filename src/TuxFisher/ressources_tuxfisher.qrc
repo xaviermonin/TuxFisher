@@ -1,0 +1,28 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource>
+    <file>ressources/widget/avalanche.png</file>
+	<file>ressources/widget/neige.png</file>
+	<file>ressources/widget/tuxfisher_vivant.png</file>
+	<file>ressources/widget/tuxfisher_gagne.png</file>
+	<file>ressources/widget/tuxfisher_mort.png</file>
+	<file>ressources/widget/montagne.png</file>
+	<file>ressources/widget/poisson.png</file>
+	<file>ressources/widget/vide.png</file>
+
+	<file>ressources/mainwindow/logo.png</file>
+	<file>ressources/mainwindow/charger.png</file>
+	<file>ressources/mainwindow/quitter.png</file>
+	<file>ressources/mainwindow/fond.png</file>
+	<file>ressources/mainwindow/recharger.png</file>
+	<file>ressources/mainwindow/precedent.png</file>
+	<file>ressources/mainwindow/suivant.png</file>
+	<file>ressources/mainwindow/telecharger.png</file>
+	<file>ressources/mainwindow/son.png</file>
+	<file>ressources/mainwindow/graphisme.png</file>
+	<file>ressources/mainwindow/aide.png</file>
+	<file>ressources/mainwindow/saviezvous.png</file>
+	
+	<file>ressources/traductions/qt_fr.qm</file>
+	<file>ressources/traductions/app_en.qm</file>
+    </qresource>
+</RCC>

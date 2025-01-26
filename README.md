@@ -3,9 +3,10 @@
 
 ## Compilation 
 
-* Avoir installé correctement Qt4.
-* Avoir installé correctement OpenAL Dev et ALUT dev.
-* Avoir installé correctement les bibliothèques ogg, vorbis et vorbisfile.
-* Avoir installé le compilateur gcc.
-* Exécuter la commande : qmake & make dans les sous répertoires de l’archive décompressée.
+* Installer Qt4.
+* Installer OpenAL Dev et ALUT dev.
+* Installer les bibliothèques ogg, vorbis et vorbisfile.
+* Installer MinGW (gcc) ou Visual C++.
+  * MinGW : Exécuter la commande: `qmake & make` dans une console dans le sous répertoire désiré (Editeur ou TuxFisher).
+  * Visual C++ : Exécuter la commande: `qmake -tp vc` dans une console dans le sous répertoire désiré (Editeur ou TuxFisher). Un projet Visual Studio sera créé.
 * Copier le programme TuxFisher dans Data.
